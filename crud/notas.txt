@@ -1,0 +1,5 @@
+crud
+create ------> crear informacion
+Read --------> leer informacion
+Update ------> actualizar informacion
+Delete ------> eliminar informacion
